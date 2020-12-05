@@ -1,4 +1,4 @@
 server:
-  port: 8888
+  port: 6666
 project:
   config: 这里是生产环境配置文件
