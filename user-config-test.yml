@@ -1,4 +1,2 @@
-server:
-  port: 6666
 project:
   config: 这里是测试环境配置文件
